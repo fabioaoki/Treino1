@@ -16,7 +16,7 @@ public class Treino1 {
 		PEDRA ("Pedra ", 0),
 		PAPEL ("Papel ", 1),
 		TESOURA ("Tesoura ", 2);
-		//
+		//ssss
 		String nome;
 		int valor;
 		
